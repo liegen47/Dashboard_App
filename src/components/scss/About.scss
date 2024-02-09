@@ -1,0 +1,29 @@
+
+  
+  .about-img {
+    text-align: center;
+  }
+  
+  .about-section {
+    margin-top: 0px;
+    position: relative;
+    background-color: #f8f9fa;
+    padding-bottom: 50px;
+  }
+  
+  .about-img img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .about-title {
+    font-size: 2.1em;
+    padding-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .about-img {
+      margin-top: 20px;
+    }
+  }
+  
